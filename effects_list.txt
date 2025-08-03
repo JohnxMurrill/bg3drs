@@ -1,0 +1,65 @@
+DRS Sources
+These items and effects work as damage sources and will duplicate some damage riders
+–
+Rat Bat (https://bg3.wiki/wiki/Rat_Bat)
+Craterflesh Gloves (https://bg3.wiki/wiki/Craterflesh_Gloves)
+Combat Inspiration (Valor Bard) (https://bg3.wiki/wiki/Combat_Inspiration)
+Magic Club* (https://bg3.wiki/wiki/Twisting_Branch)
+
+
+DRS Riders
+These riders will attach to most DRS.
+–
+Bloodthirst (https://bg3.wiki/wiki/Horns_of_the_Berserker)
+Bestow Curse (https://bg3.wiki/wiki/Bestow_Curse)
+Elemental Infusion (https://bg3.wiki/wiki/Ring_of_Elemental_Infusion)
+Absorb Elements (https://bg3.wiki/wiki/Cloak_of_Elemental_Absorption)
+Psionic Overload (https://bg3.wiki/wiki/Psionic_Overload)
+Lightning Charge (https://bg3.wiki/wiki/Lightning_Charges_(Condition))
+Phalar Aluve: Shriek (https://bg3.wiki/wiki/Phalar_Aluve)
+Titan Weapon (https://bg3.wiki/wiki/Titanstring_Bow)
+Hexblade's Curse (https://bg3.wiki/wiki/The_Hexblade)
+Callous Glow
+Gaping Wounds
+Formless Slaughter
+Dolor Amarus
+Flying Strike
+Martial Bravery
+Spellmight
+Arcane Charge
+Gregarious Caster
+
+Small DRS Riders
+These riders will attach to most DRS, and will also attach to small DRS such as Prey's Scent, Reverb, etc.
+–
+Hexblade's Curse
+Lightning Charge
+Callous Glow
+Gaping Wounds
+
+Non-DRS Riders
+These riders do not attach to DRS. Only to main damage.
+–
+Elemental Weapon
+Venomous Revenge
+Vampire Ascendant
+Soul Branding
+Strange Conduit
+Inquisitor's Might
+Crusaders Mantle
+Symbiotic Entity
+Sharpshooter
+Enlarge
+Arcane Synergy
+Shadowthief
+Generic Weapon Riders
+Aura of Hate
+Wrath
+Elemental Affinity: Damage
+Elemental Cleaver
+Fangs of the Fire Snake
+Infernal Touch
+Lifedrinker
+Improved Divine Smite
+Sneak Attack
+Divine Strike
